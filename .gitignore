@@ -1,0 +1,21 @@
+# Dependencies and build output
+node_modules/
+dist/
+build/
+
+# Local runtime state
+.env
+.env.*
+!.env.example
+*.local
+.playwright-cli/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Local demo exports
+*.log
+coverage/

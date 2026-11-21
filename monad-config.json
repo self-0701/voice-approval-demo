@@ -1,0 +1,11 @@
+{
+  "network": "Monad Testnet",
+  "chainId": 10143,
+  "rpcUrl": "https://testnet-rpc.monad.xyz",
+  "explorerUrl": "https://testnet.monadvision.com",
+  "contractAddress": "0x85eB82304D36dC2bA1A256359107E5d8D104B085",
+  "deploymentTx": "0x0193ca8a15664460fe19e518cb4ab1923749491df7f836cd99a50a11bc5bb940",
+  "deployer": "0xee2A2AeE3F53716518e3F3c9CbF5BC8AB0D02eC7",
+  "reviewer": "0xee2A2AeE3F53716518e3F3c9CbF5BC8AB0D02eC7",
+  "deployedAt": "2026-11-21T09:09:29.118Z"
+}
